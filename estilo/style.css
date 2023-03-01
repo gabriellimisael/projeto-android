@@ -89,6 +89,7 @@ header > P {
     color: white;
     font-family: var(--fonte-padrao);
     text-align: center;
+    padding-bottom: 50px;
 }
 nav {
     background-color: var(--cor5);
